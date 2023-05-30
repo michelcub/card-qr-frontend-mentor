@@ -1,0 +1,22 @@
+.content_card_qr{
+    width: 18rem;
+    height: auto;
+    padding: 10px;
+    background: white;
+    border-radius: 8px;
+  }
+  .img_card_qr{
+    width: auto;
+    height: 18rem;
+    border-radius: 8px;
+  }
+  .body_card_qr{
+    text-align: center;
+  }
+  .title_card_qr{
+    font-weight: bold;
+    font-family: 'Roboto';
+  }
+  .paragraph_card_qr{
+    color: gray;
+  }
